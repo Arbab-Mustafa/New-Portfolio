@@ -1,0 +1,17 @@
+{
+  "IntroSection": {
+    "hello_im": "Hi, my name is",
+    "name": "Arbab Mustafa",
+    "short_intro": " Transform ideas into reality. I enjoy building things for the web.",
+    "download_cv": "Download CV"
+  },
+  "SectionName": {
+    "about": "About me",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills"
+  },
+  "AboutSection": {
+    "desc": "As a dedicated software engineering student at UET Taxila, I am committed to mastering both foundational principles and the latest technologies driving modern software development. With over 2+ years of hands-on experience as a MERN stack developer, I excel in creating responsive, user-centric web applications. My expertise spans frontend development with React.js, Next.js, and Framer Motion, alongside a strong command of TypeScript, JavaScript, HTML, CSS, and modern design frameworks like Tailwind CSS, Material UI, and Bootstrap. On the backend, I focus on designing robust RESTful APIs, implementing secure authentication, and optimizing database performance using MongoDB.Driven by a passion for innovation, I continuously explore emerging trends and cutting-edge tools in software development. My recent work has deepened my proficiency in TypeScript, MongoDB, Next.js, and Framer Motion, allowing me to build scalable and efficient solutions. I am dedicated to lifelong learning, consistently enhancing my skills through continuous education and staying informed about industry advancements. My career aspirations center on leveraging modern technologies to deliver impactful, innovative software solutions that address real-world challenges."
+  }
+}
